@@ -5,7 +5,7 @@ heroku==0.1.4
 idna==2.8
 Jinja2==2.10.3
 MarkupSafe==1.1.1
-numpy==1.18.1
+numpy==1.22.0
 pandas==0.25.3
 plaid-python==3.4.0
 psycopg2==2.8.4
